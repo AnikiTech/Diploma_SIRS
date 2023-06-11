@@ -1,0 +1,14 @@
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\bin\Debug\netstandard2.0\SIRS.RMT.Domain.EntityFramework.deps.json
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\bin\Debug\netstandard2.0\SIRS.RMT.Domain.EntityFramework.dll
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\bin\Debug\netstandard2.0\SIRS.RMT.Domain.EntityFramework.pdb
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\bin\Debug\netstandard2.0\SIRS.RMT.Config.dll
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\bin\Debug\netstandard2.0\SIRS.RMT.Domain.dll
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\bin\Debug\netstandard2.0\SIRS.RMT.Config.pdb
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\bin\Debug\netstandard2.0\SIRS.RMT.Domain.pdb
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\obj\Debug\netstandard2.0\SIRS.RMT.Domain.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\obj\Debug\netstandard2.0\SIRS.RMT.Domain.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\obj\Debug\netstandard2.0\SIRS.RMT.Domain.EntityFramework.AssemblyInfo.cs
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\obj\Debug\netstandard2.0\SIRS.RMT.Domain.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\obj\Debug\netstandard2.0\SIRS.RMT.Domain.EntityFramework.csproj.CopyComplete
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\obj\Debug\netstandard2.0\SIRS.RMT.Domain.EntityFramework.dll
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain.EntityFramework\obj\Debug\netstandard2.0\SIRS.RMT.Domain.EntityFramework.pdb

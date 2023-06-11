@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4QhDJ0sg5IHJV3wIrwA4t8ijmYNVO7OS63JtwJ9Az+Fq7M0Q56cN3OcIOEd5Ky426df1HDGHTSFtCJSNOS5faw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Machenike\\Documents\\GitHub\\SIRS_Reading_Memory_Thinking\\src\\SIRS.RMT.Config\\SIRS.RMT.Config.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Machenike\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Machenike\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

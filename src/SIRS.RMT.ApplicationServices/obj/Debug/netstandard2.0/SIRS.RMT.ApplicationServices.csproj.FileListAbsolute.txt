@@ -1,0 +1,16 @@
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\bin\Debug\netstandard2.0\SIRS.RMT.ApplicationServices.deps.json
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\bin\Debug\netstandard2.0\SIRS.RMT.ApplicationServices.dll
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\bin\Debug\netstandard2.0\SIRS.RMT.ApplicationServices.pdb
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\bin\Debug\netstandard2.0\SIRS.RMT.Config.dll
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\bin\Debug\netstandard2.0\SIRS.RMT.Domain.dll
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\bin\Debug\netstandard2.0\SIRS.RMT.Domain.EntityFramework.dll
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\bin\Debug\netstandard2.0\SIRS.RMT.Domain.EntityFramework.pdb
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\bin\Debug\netstandard2.0\SIRS.RMT.Domain.pdb
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\bin\Debug\netstandard2.0\SIRS.RMT.Config.pdb
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\obj\Debug\netstandard2.0\SIRS.RMT.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\obj\Debug\netstandard2.0\SIRS.RMT.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\obj\Debug\netstandard2.0\SIRS.RMT.ApplicationServices.AssemblyInfo.cs
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\obj\Debug\netstandard2.0\SIRS.RMT.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\obj\Debug\netstandard2.0\SIRS.RMT.ApplicationServices.csproj.CopyComplete
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\obj\Debug\netstandard2.0\SIRS.RMT.ApplicationServices.dll
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.ApplicationServices\obj\Debug\netstandard2.0\SIRS.RMT.ApplicationServices.pdb

@@ -1,0 +1,9 @@
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain\bin\Debug\netstandard2.0\SIRS.RMT.Domain.deps.json
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain\bin\Debug\netstandard2.0\SIRS.RMT.Domain.dll
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain\bin\Debug\netstandard2.0\SIRS.RMT.Domain.pdb
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain\obj\Debug\netstandard2.0\SIRS.RMT.Domain.csproj.AssemblyReference.cache
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain\obj\Debug\netstandard2.0\SIRS.RMT.Domain.AssemblyInfoInputs.cache
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain\obj\Debug\netstandard2.0\SIRS.RMT.Domain.AssemblyInfo.cs
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain\obj\Debug\netstandard2.0\SIRS.RMT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain\obj\Debug\netstandard2.0\SIRS.RMT.Domain.dll
+C:\Users\Machenike\Documents\GitHub\SIRS_Reading_Memory_Thinking\src\SIRS.RMT.Domain\obj\Debug\netstandard2.0\SIRS.RMT.Domain.pdb
